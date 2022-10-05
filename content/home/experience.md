@@ -74,7 +74,7 @@ experience:
     company: Indian Institute of Information Technology Design and Manufacturing Kancheepuram
     company_url: https://www.iiitdm.ac.in/
     # company_logo: org-gc
-    location: Kancheepuram, India
+    location: Chennai, India
     date_start: '2021-09-20'
     date_end: '2022-04-30'
     description: "
