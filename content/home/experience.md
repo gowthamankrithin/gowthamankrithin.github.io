@@ -29,28 +29,20 @@ experience:
     location: Bangalore, India
     date_start: '2022-08-01'
     date_end: ''
-    description: "
-        Working on CFD stuff."
+    description: " Guide: [Dr Jim Thomas](https://jimthomasedu.github.io/)
+
+
+    Studying two dimensional vorticity in the ocean using pseudospectral applied mathematical techniques."
 
   - title: Summer Research Fellow
     company: Birla Institute of Technology and Science, Pilani - Hyderabad
     company_url: https://www.bits-pilani.ac.in/hyderabad/
     # company_logo: org-gc
-    location: Hyderabad, India
+    location: Hyderabad, India (Remote)
     date_start: '2021-08-19'
     date_end: '2022-03-15'
-    description: "sagsdfearrg"
-
-
-  - title: Research Intern
-    company: IIT Roorkee
-    company_url: 'https://iitr.ac.in/Departments/Computer%20Science%20and%20Engineering%20Department/index.html'
-    # company_logo: org-x
-    location: Roorkee, India (Remote)
-    date_start: '2021-11-05'
-    date_end: '2022-06-29'
     description: "
-    Guide :
+    Guides :
     
     
     - Prof S M Deshpande
@@ -60,9 +52,37 @@ experience:
     - [Mr Keshav Malagi](https://www.nal.res.in/en/keshav-shrinivas-malagi)
 
 
+
+
     Studied the Least Squares Formula used in the Least Squares Kinetic Upwind Meshless Method (LSKUM) to determine its spectral bandwidth."
   
+  - title: Research Intern
+    company: Indian Institute of Technology Kanpur
+    company_url: https://home.iitk.ac.in/
+    # company_logo: org-gc
+    location: Kanpur, India (Remote)
+    date_start: '2021-05-17'
+    date_end: '2022-10-10'
+    description: "
+    Guide :
+    - [Dr Debopam Das](https://home.iitk.ac.in/~das/)
 
+
+    Worked on obtaining simulation results of a novel experimental setup capable of producing vortex rings devoid of piston and stopping vortices in the Unsteady Aerodynamics Lab."
+
+  - title: Research Intern
+    company: Indian Institute of Information Technology Design and Manufacturing Kancheepuram
+    company_url: https://www.iiitdm.ac.in/
+    # company_logo: org-gc
+    location: Kancheepuram, India
+    date_start: '2021-09-20'
+    date_end: '2022-04-30'
+    description: "
+    Guide :
+    - [Dr S Jayavel](https://sites.google.com/view/sjv2020/home)
+
+
+    Studied the fluid flow and heat transfer past a rotating cylinder using ANSYS Fluent. Surveyed relevant literature and performed validation of numerical results."
 design:
   columns: '2'
 ---

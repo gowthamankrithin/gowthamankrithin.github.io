@@ -31,14 +31,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: "BTech Mechanical Engineering (CGPA 9.03/10.0)"
-      institution: IIITDM Kancheepuram
+    - course: "B.Tech Mechanical Engineering"
+      institution: IIITDM Kancheepuram (CGPA 9.03/10.0)
       year: 2022
-    - course: "AISSCE - Class 12 (Marks 486/500)"
-      institution: D.A.V Boys Senior Secondary School, Gopalapuram, Chennai
+    - course: "AISSCE - Class 12"
+      institution: D.A.V Boys Senior Secondary School, Gopalapuram, Chennai (Marks 486/500)
       year: 2018
-    - course: SSLC - Class 10 (CGPA 10.0/10.0)
-      institution: D.A.V Boys Senior Secondary School, Gopalapuram, Chennai
+    - course: SSLC - Class 10 
+      institution: D.A.V Boys Senior Secondary School, Gopalapuram, Chennai (CGPA 10.0/10.0)
       year: 2016
 
 # Social/Academic Networking

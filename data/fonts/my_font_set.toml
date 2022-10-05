@@ -2,10 +2,10 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "family=Spectral"
+google_fonts = "family=Andada Pro"
 
 # Font families
-heading_font = "Spectral"
-body_font = "Spectral"
-nav_font = "Spectral"
-mono_font = "Spectral"
+heading_font = "Andada Pro"
+body_font = "Andada Pro"
+nav_font = "Andada Pro"
+mono_font = "Andada Pro"
