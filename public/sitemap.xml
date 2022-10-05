@@ -4,17 +4,17 @@
   
   
   <url>
+    <loc>/cv/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>/project/maxflow/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/cv/</loc><changefreq>weekly</changefreq></url>
+    <loc>/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>/project/gpipe/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>/project/pathtracer/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>/project/</loc><changefreq>weekly</changefreq></url>
   <url>

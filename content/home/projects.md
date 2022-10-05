@@ -10,7 +10,7 @@ headless: true
 weight: 45
 
 title: Projects
-subtitle: '[Find more at my Github here](https://github.com/PratyushVM).'
+# subtitle: '[Find more at my Github here](https://github.com/gowthamankrithin).'
 
 content:
   # Page type to display. E.g. project.

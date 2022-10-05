@@ -1,43 +1,44 @@
 ---
 # Display name
-title: Pratyush VM
+title: G Krithin
 
 # Full name (for SEO)
-first_name: Pratyush
-last_name: V Moorthy
+first_name: Krithin
+last_name: Gowthaman
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Systems Software Engineer 
+role: Visiting Student 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: NVIDIA
-    url: https://www.nvidia.com/en-in/
+  - name: ICTS-TIFR Bengaluru
+    url: https://www.icts.res.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include High Performance Computing and its various applications.
+bio: My research interests include CFD and Scientific Computing.
 
 # Interests to show in About widget
 interests:
-  - High Performance Computing
-  - GPU Programming and Architecture
-  - Artificial Intelligence
-  - Graphics and Simulations
+  - Computational Fluid Dynamics
+  - Scientific Computing
+  - Aerodynamics and Aircraft Design
+  - Turbulence
+  - Flow instabilities
 
 # Education to show in About widget
 education:
   courses:
-    - course: "BTech CSE (CGPA 9.17/10.0)"
+    - course: "BTech Mechanical Engineering (CGPA 9.03/10.0)"
       institution: IIITDM Kancheepuram
       year: 2022
-    - course: "AISSCE - Class 12 (Marks 475/500)"
-      institution: SBOA School and Junior College
+    - course: "AISSCE - Class 12 (Marks 486/500)"
+      institution: D.A.V Boys Senior Secondary School, Gopalapuram, Chennai
       year: 2018
     - course: SSLC - Class 10 (CGPA 10.0/10.0)
-      institution: SBOA School and Junior College
+      institution: D.A.V Boys Senior Secondary School, Gopalapuram, Chennai
       year: 2016
 
 # Social/Academic Networking
@@ -47,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:pratyush.v.m@gmail.com'
+    link: 'mailto:krithing@gmail.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -56,13 +57,13 @@ social:
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/PratyushVM
+    link: https://github.com/gowthamankrithin
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/pratyush-v-moorthy-bb820a17a/
-  - icon: trophy
-    icon_pack: fas
-    link: https://icpc.global/ICPCID/I6KI5ZXSYB6U
+    link: www.linkedin.com/in/gowthamankrithin
+  # - icon: trophy
+  #   icon_pack: fas
+  #   link: https://icpc.global/ICPCID/I6KI5ZXSYB6U
   - icon: cv
     icon_pack: ai
     link: 'cv/' 
@@ -74,12 +75,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'pratyush.v.m@gmail.com'
+email: 'krithing@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Hello! I am **Pratyush V Moorthy**, currently a Systems Software Engineer at [NVIDIA](https://www.nvidia.com/en-in/), in the DevTools team where I work on [CUPTI](https://docs.nvidia.com/cuda/cupti/index.html) (The Profiling Tools API shipped with the CUDA toolkit). I recently graduated with a BTech (Distinction) in **Computer Science and Engineering** from the [Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Kancheepuram](http://iiitdm.ac.in/).
+I am Krithin, a visiting student at the [International Centre for Theoretical Sciences, Tata Institute of Fundamental Research](https://www.icts.res.in/). I am a 
 
-Please find my comprehensive CV <a href="cv/Pratyush-CV.pdf" target="_blank" rel="noopener noreferrer">here</a>.
+Please find my comprehensive CV <a href="cv/Krithin_CV.pdf" target="_blank" rel="noopener noreferrer">here</a>.

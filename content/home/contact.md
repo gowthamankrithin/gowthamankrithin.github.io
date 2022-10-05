@@ -25,8 +25,8 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: pratyush.v.m@gmail.com
-  phone: +91 97915 76891
+  email: krithing@gmail.com
+  phone: +91 97890 57808
   # address:
   #   street: 52/
   #   city: Stanford
@@ -46,11 +46,11 @@ content:
     - icon: github
       icon_pack: fab
       name: Github
-      link: 'https://github.com/PratyushVM'
+      link: 'https://github.com/gowthamankrithin'
     - icon: linkedin
       icon_pack: fab
       name: LinkedIn
-      link: 'https://www.linkedin.com/in/pratyush-v-moorthy-bb820a17a/'
+      link: 'https://www.linkedin.com/in/gowthamankrithin/'
 
 design:
   columns: '2'

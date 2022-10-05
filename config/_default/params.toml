@@ -7,8 +7,8 @@ font_size = "L"
 [marketing.seo]
 site_type = "Person"
 local_business_type = ""
-org_name = "Pratyush VM"
-description = "Pratyush VM's Personal Website"
+org_name = "G Krithin"
+description = "G Krithin's Personal Website"
 twitter = ""
 
 [main]
@@ -32,7 +32,7 @@ show_search = true
 highlight_active_link = true
 
 [footer.copyright]
-notice = "© {year} Pratyush VM. Published under MIT License."
+notice = "© {year} G Krithin. Published under MIT License."
 
   [footer.copyright.license]
   enable = false
@@ -56,7 +56,7 @@ enable = true
 enable = false
 
 [features.repository]
-url = "https://pratyushvm.github.io/"
+url = "https://gowthamankrithin.github.io/"
 content_dir = "content"
 branch = "main"
 
