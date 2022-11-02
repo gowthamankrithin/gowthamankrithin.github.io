@@ -22,21 +22,22 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 item:
-  # - certificate_url: https://icpc.global/ICPCID/I6KI5ZXSYB6U
-  - date_end: ''
-    date_start: '2021-10-10'
-    description: 'Taught middle school mathematics at Government School, Kumizhi, Chennai.
+  - date_end: '2019-08-01'
+    date_start: '2020-05-01'
+    description: Conducted sessions, organised workshops and competitions for the annual inter-college fest
+    organization: IIITDM Kancheepuram
+    title: Institute Robotics Club Coordinator
+  
+  - date_end: '2021-06-01'
+    date_start: '2020-01-10'
+    description: Taught middle school mathematics at Government School, Kumizhi, Chennai. Prepared exam preparation material for mental ability and math for the National Talent Search Examination for Class 10 students and National Means Cum-Merit Scholarship for Class 8 students.
 
 
-Prepared exam preparation material for mental ability and math for the National Talent Search Examination for Class 10 students and National Means Cum-Merit Scholarship for Class 8 students.
-'
     organization: Vidhai - IIITDM Kancheepuram
-    # organization_url: https://icpc.global/
     title: Teaching and Curriculum Volunteer 
-    # url: 'https://icpc.global/ICPCID/I6KI5ZXSYB6U'
-  
-  
+
 design:
 columns: '2'
 ---

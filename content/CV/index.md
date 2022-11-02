@@ -15,7 +15,6 @@ header:
 ---
 If your browser does not support pdf embeddings, please use this <a href="Krithin_CV.pdf" target="_blank" rel="noopener noreferrer">link</a>.
 
-<!-- <iframe src="Pratyush-CV.pdf" width="100%" height="600" allow="autoplay"></iframe> -->
 <object data=
 "Krithin_CV.pdf" 
                 width="100%" 

@@ -6,13 +6,13 @@ summary: Course project for design of heat exchangers and design optimization co
 # date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-# external_link: 'https://github.com/PratyushVM/maxflow-cuda'
+external_link: 'https://drive.google.com/drive/folders/1kPZM80RDefh0YUw5lqGc0DuuwkmusSzd?usp=sharing'
 
-# links:
-#   - icon: github
-#     icon_pack: fab
-#     name: Github Link
-#     url: https://github.com/PratyushVM/maxflow-cuda
+links:
+  - icon: Chain
+    icon_pack: fab
+    name: Code
+    url: https://drive.google.com/drive/folders/1kPZM80RDefh0YUw5lqGc0DuuwkmusSzd?usp=sharing
 # url_code: ''
 # # url_pdf: 'def.com'
 # url_slides: ''

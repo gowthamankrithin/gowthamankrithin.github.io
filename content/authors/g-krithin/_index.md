@@ -81,6 +81,6 @@ email: 'krithing@gmail.com'
 highlight_name: true
 ---
 
-I am Krithin, a visiting student at the [International Centre for Theoretical Sciences, Tata Institute of Fundamental Research](https://www.icts.res.in/). I am a 
+I am Krithin, a visiting student at the [International Centre for Theoretical Sciences, Tata Institute of Fundamental Research](https://www.icts.res.in/). I have a passionate interest in computational fluid dynamics and aerodynamics. Historical research in fluid dynamics has focused on explaining turbulence with the knowledge of laminar flow. I am intrigued by how, in nature, turbulence is the rule while laminar flow is an exception. With the pressing need for sustainable development, I see the road to the engineering marvels of the future is through taming the fascinating chaos turbulence is.
 
 Please find my comprehensive CV <a href="cv/Krithin_CV.pdf" target="_blank" rel="noopener noreferrer">here</a>.

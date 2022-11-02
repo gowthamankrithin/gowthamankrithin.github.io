@@ -36,26 +36,42 @@ height=&#34;500&#34;&gt;
     </item>
     
     <item>
-      <title>CUDA Maxflow Solver</title>
-      <link>/project/maxflow/</link>
+      <title>Comparison of error and computational time of numerical methods for ODE solving</title>
+      <link>/project/leakybucket/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/maxflow/</guid>
+      <guid>/project/leakybucket/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pipeline Accelerated CNNs</title>
-      <link>/project/gpipe/</link>
+      <title>Hydrodynamics and vortex shedding characteristics of cross flow past rotating cylinders in tandem</title>
+      <link>/project/rotating_cylinders/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/gpipe/</guid>
+      <guid>/project/rotating_cylinders/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>POSIX PathTracer</title>
-      <link>/project/pathtracer/</link>
+      <title>Optimisation of the thermal design of the shell and tube heat exchanger</title>
+      <link>/project/hx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/pathtracer/</guid>
+      <guid>/project/hx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimisation of the thermal design of the shell and tube heat exchanger</title>
+      <link>/publication/icftes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/icftes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic parametrization of two dimensional vorticity equation</title>
+      <link>/project/stochastic_parametrization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/stochastic_parametrization/</guid>
       <description></description>
     </item>
     

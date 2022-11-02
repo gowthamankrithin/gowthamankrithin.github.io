@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
 
-# Activate this widget? true/false
+# Activate this widget? true/false 
 active: true
 
 # This file represents a page section.
@@ -19,3 +19,4 @@ title: About Me
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: g-krithin
 ---
+

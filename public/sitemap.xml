@@ -8,16 +8,22 @@
   <url>
     <loc>/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/project/maxflow/</loc><changefreq>weekly</changefreq></url>
+    <loc>/project/leakybucket/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/project/gpipe/</loc><changefreq>weekly</changefreq></url>
+    <loc>/project/rotating_cylinders/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/project/pathtracer/</loc><changefreq>weekly</changefreq></url>
+    <loc>/project/hx/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/publication/icftes/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>/project/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>/publication_types/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/publication/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/project/stochastic_parametrization/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>/tags/</loc><changefreq>weekly</changefreq></url></urlset>

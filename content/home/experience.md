@@ -32,7 +32,7 @@ experience:
     description: " Guide: [Dr Jim Thomas](https://jimthomasedu.github.io/)
 
 
-    Studying two dimensional vorticity in the ocean using pseudospectral applied mathematical techniques."
+    Studying two dimensional vorticity in the ocean using pseudospectral applied mathematical techniques. Researching the variation in the behaviour of two dimensional vorticity in the presence of a stochastic vorticity field with varying relative strengths between the deterministic and the stochastic vorticity fields. Learning parallel processing and code optimisation on Python using mpi4py and Cython. "
 
   - title: Summer Research Fellow
     company: Birla Institute of Technology and Science, Pilani - Hyderabad
@@ -45,7 +45,7 @@ experience:
     Guides :
     
     
-    - Prof S M Deshpande
+    - [Prof S M Deshpande](https://www.researchgate.net/profile/Suresh-Deshpande)
 
     - [Dr Anil N](https://universe.bits-pilani.ac.in/hyderabad/nanil/Profile)
     
@@ -62,21 +62,21 @@ experience:
     # company_logo: org-gc
     location: Kanpur, India (Remote)
     date_start: '2021-05-17'
-    date_end: '2022-10-10'
+    date_end: '2021-10-10'
     description: "
     Guide :
     - [Dr Debopam Das](https://home.iitk.ac.in/~das/)
 
 
-    Worked on obtaining simulation results of a novel experimental setup capable of producing vortex rings devoid of piston and stopping vortices in the Unsteady Aerodynamics Lab."
+    Worked remotely as part of the Unsteady Aerodynamics Lab on obtaining simulation results of a novel experimental setup capable of producing vortex rings devoid of piston and stopping vortices."
 
   - title: Research Intern
     company: Indian Institute of Information Technology Design and Manufacturing Kancheepuram
     company_url: https://www.iiitdm.ac.in/
     # company_logo: org-gc
     location: Chennai, India
-    date_start: '2021-09-20'
-    date_end: '2022-04-30'
+    date_start: '2020-09-20'
+    date_end: '2021-04-30'
     description: "
     Guide :
     - [Dr S Jayavel](https://sites.google.com/view/sjv2020/home)
